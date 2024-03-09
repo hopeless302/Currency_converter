@@ -1,1 +1,3 @@
-# This is a currency converter code just to practice Javascript
+# currency converter website
+
+Main Focus `Javascript`
